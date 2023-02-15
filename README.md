@@ -12,11 +12,9 @@
 - 📢 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I'm a big fan of linux and low level programming
 
-<br>
-
+<!--
 <a href="https://github.com/nmarzagao">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmarzagao&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
 
-<br>
-
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmarzagao&layout=compact&langs_count=7&theme=city_lights"/>
+-->
